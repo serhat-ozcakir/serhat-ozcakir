@@ -1,7 +1,8 @@
-<img src="https://github-readme-stats.vercel.app/api?username=serhat-ozcakir&show_icons=true&theme=dark" align='right' width="75%">
+<img src="https://github-readme-stats.vercel.app/api?username=serhat-ozcakir&show_icons=true&theme=dark" align='right' width="65%">
 ## Hi there 👋
 <br/>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArfOz" alt="" /> </p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ArfOz" alt="" /> </p><br/><br/>
+
 [![](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/arif-%C3%B6zkan-%C3%B6zt%C3%BCrk-3503191b2/ )
 <br/>
 [![](https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/Arif0zkan)
