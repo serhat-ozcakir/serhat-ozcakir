@@ -1,4 +1,4 @@
-## Hi there. I'm Hasan Furkan...👋
+## Hi there. I'm Serhat...👋
 
 - 🔭 I'm currently working on frontend and mobile app development (JavaScript | React | React Native)
 - 🌱 I'm currently learning backend development (Django)
