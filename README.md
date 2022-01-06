@@ -1,7 +1,7 @@
 ## Hi there. I'm Serhat...👋
 
 - 🔭 I  worked on frontend and backend web development
-- 🌱 I learned frontend development (HTML | CSS | Bootstrap | Javascript| React)
+- 🌱 I learned frontend development (HTML | CSS | Bootstrap | Javascript | React)
 - 🌱 I learned backend development (Django | Django Restframework)
 - 💬 Ask me about anything that you want to learn
 
