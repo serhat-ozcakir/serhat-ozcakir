@@ -2,7 +2,6 @@
 
 - 🔭 I  worked on frontend and backend web development
 - 🌱 I learned frontend development (HTML | CSS | Bootstrap | Javascript | React)
-- 🌱 I learned backend development (Django | Django Restframework)
 - 💬 Ask me about anything that you want to learn
 
 [![Linkedin: VPA](https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhat-ozcakir/)
