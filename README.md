@@ -39,7 +39,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
   <img src="https://logoeps.com/wp-content/uploads/2014/02/25231-github-cat-in-a-circle-icon-vector-icon-vector-eps.png" height="50"/>
   <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/>
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30"/>
+  <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/discord.svg" height="50"/>
 </p>
 
 ---
@@ -56,7 +56,7 @@
 - Integrated backend services for data management  
 
 🔗 **Live Demo:** (https://serhat-oezcakir.de/join/)  
-🔗 **GitHub:** https://github.com/your-repo  
+🔗 **GitHub:** (https://github.com/serhat-ozcakir/Join) 
 
 ---
 
@@ -67,8 +67,8 @@
 - Implemented animations and game mechanics  
 - Created an interactive user experience  
 
-🔗 **Live Demo:** https://your-live-link  
-🔗 **GitHub:** https://github.com/your-repo  
+🔗 **Live Demo:** (https://serhat-oezcakir.de/El-Pollo-Locco/) 
+🔗 **GitHub:** (https://github.com/serhat-ozcakir/El-Pollo-Locco.git)
 
 ---
 
@@ -79,16 +79,7 @@
 - Integrated external API for dynamic data  
 - Implemented dynamic rendering of content  
 
-🔗 **Live Demo:** https://your-live-link  
-🔗 **GitHub:** https://github.com/your-repo  
+🔗 **Live Demo:** (https://serhat-oezcakir.de/Pokedex/)
+🔗 **GitHub:** (https://github.com/serhat-ozcakir/Pokemon.git) 
 
-## 📊 GitHub Stats
 
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=serhat-ozcakir&theme=buefy" width="49%" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=serhat-ozcakir&theme=buefy" width="49%" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=serhat-ozcakir&theme=buefy&layout=compact" width="50%" />
-</p>
