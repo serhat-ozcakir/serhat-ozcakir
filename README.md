@@ -55,7 +55,7 @@
 - Built modern UI components and interactive features  
 - Integrated backend services for data management  
 
-🔗 **Live Demo:** [https://your-live-link](https://serhat-oezcakir.de/join/)  
+🔗 **Live Demo:** (https://serhat-oezcakir.de/join/)  
 🔗 **GitHub:** https://github.com/your-repo  
 
 ---
