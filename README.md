@@ -8,7 +8,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhat-ozcakir/)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([https://www.linkedin.com/in/serhat-ozcakir/](https://www.linkedin.com/in/serhat-%C3%B6z%C3%A7ak%C4%B1r/))  
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/17054707/krnsoo)  
 [![Gmail](https://img.shields.io/badge/Gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:serhatozcakir35@gmail.com)  
 
@@ -24,6 +24,8 @@
   <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/html/html.png" height="60"/>
   <img src="https://raw.githubusercontent.com/github/explore/6c6508f34230f0ac0d49e847a326429eefbfc030/topics/css/css.png" height="60"/>
   <img src="https://cdn.icon-icons.com/icons2/2108/PNG/512/javascript_icon_130900.png" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/angularjs/angularjs-original.svg" height="60"/>
+  <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" height="60"/>
   <img src="https://cdn.icon-icons.com/icons2/2415/PNG/512/react_original_wordmark_logo_icon_146375.png" width="60"/>
   <img src="https://cdn.worldvectorlogo.com/logos/sass-1.svg" height="50"/>
   <img src="https://upload.wikimedia.org/wikipedia/commons/4/49/Redux.png" height="60"/>
