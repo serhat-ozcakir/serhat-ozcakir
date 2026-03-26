@@ -1,17 +1,9 @@
-<p align="center">
-  <img src="https://raw.githubusercontent.com/serhat-ozcakir/serhat-ozcakir/main/_DSC0453%20klein-2.jpg" alt="Serhat Özcakir" width="150" style="border-radius: 50%;" />
-</p>
 
-<h1 align="center">Hi there, I'm Serhat 👋</h1>
-
-<p align="center">
-  Software Developer | Frontend  Web Development
-</p>
 
 ## 👋 Hi there, I'm Serhat
 
-- 🔭 I worked on frontend and backend web development  
-- 🌱 I learned frontend development (HTML | CSS | Bootstrap | JavaScript | React)  
+- 🔭 I worked on frontend Development  
+- 🌱 I learned frontend development (HTML | CSS | Bootstrap | JavaScript | Angular | TypScript | React)  
 - 💬 Ask me about anything that you want to learn  
 
 ---
@@ -47,7 +39,7 @@
   <img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" height="50"/>
   <img src="https://logoeps.com/wp-content/uploads/2014/02/25231-github-cat-in-a-circle-icon-vector-icon-vector-eps.png" height="50"/>
   <img src="https://img.shields.io/badge/jira-1e90ff.svg?&style=for-the-badge&logo=jira&logoColor=white" height="35"/>
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b9/Slack_Technologies_Logo.svg/1280px-Slack_Technologies_Logo.svg.png" height="30"/>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="30"/>
 </p>
 
 ---
@@ -63,7 +55,7 @@
 - Built modern UI components and interactive features  
 - Integrated backend services for data management  
 
-🔗 **Live Demo:** https://your-live-link  
+🔗 **Live Demo:** [https://your-live-link](https://serhat-oezcakir.de/join/)  
 🔗 **GitHub:** https://github.com/your-repo  
 
 ---
