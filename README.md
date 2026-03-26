@@ -5,11 +5,11 @@
 - 💬 Ask me about anything that you want to learn  
 
 ---
-
+<div>
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhat-ozcakir/)  
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/17054707/krnsoo)  
 [![Gmail](https://img.shields.io/badge/Gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:serhatozcakir35@gmail.com)  
-
+</div>
 <p align="left">
   <img src="https://komarev.com/ghpvc/?username=serhat-ozcakir" alt="profile views" />
 </p>
