@@ -1,5 +1,11 @@
-<p align="left">
-  <img src="FOTO_LINKI_BURAYA" alt="Serhat Özcakir" width="140" />
+<p align="center">
+  <img src="https://raw.githubusercontent.com/serhat-ozcakir/serhat-ozcakir/main/_DSC0453%20klein-2.jpg" alt="Serhat Özcakir" width="150" style="border-radius: 50%;" />
+</p>
+
+<h1 align="center">Hi there, I'm Serhat 👋</h1>
+
+<p align="center">
+  Software Developer | Frontend  Web Development
 </p>
 
 ## 👋 Hi there, I'm Serhat
