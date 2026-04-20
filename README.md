@@ -8,7 +8,7 @@
 
 ---
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)]([[https://www.linkedin.com/in/serhat-ozcakir/](https://www.linkedin.com/in/serhat-%C3%B6z%C3%A7ak%C4%B1r/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/serhat-%C3%B6z%C3%A7ak%C4%B1r/)
 [![Stackoverflow](https://img.shields.io/badge/Stackoverflow-c8d6e5.svg?&style=for-the-badge&logo=stackoverflow&logoColor=orange)](https://stackoverflow.com/users/17054707/krnsoo)  
 [![Gmail](https://img.shields.io/badge/Gmail-f1f2f6.svg?&style=for-the-badge&logo=gmail&logoColor=red)](mailto:serhatozcakir35@gmail.com)  
 
